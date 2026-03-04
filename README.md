@@ -1,4 +1,3 @@
-# Hi, I'm Rohan 👋
 
 **VP Platform & Operations** building deployment safety systems that scale.
 
@@ -8,15 +7,13 @@ Based in San Francisco Bay Area.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohankapoor161&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rohan's GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankapoor161&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohankapoor161&theme=radical&hide_border=true" alt="GitHub Streak" />
