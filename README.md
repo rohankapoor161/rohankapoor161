@@ -11,9 +11,9 @@ Based in San Francisco Bay Area.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohankapoor161&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<a href="https://github.com/rohankapoor161">
+<p>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rohankapoor161&layout=compact&theme=radical" />
-</a>
+</p>
 ---
 
 ## What I'm Working On
