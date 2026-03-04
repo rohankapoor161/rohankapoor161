@@ -7,20 +7,12 @@ Based in San Francisco Bay Area.
 
 ---
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohankapoor161&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rohan's GitHub Stats" />
-</p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankapoor161&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-</p> -->
-
-<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohankapoor161&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<a href="https://github.com/jakerslam">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rohankapoor161&layout=compact&theme=radical" />
+<a href="https://github.com/rohankapoor161">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rohankapoor161&layout=compact&theme=radical" />
 </a>
 ---
 
